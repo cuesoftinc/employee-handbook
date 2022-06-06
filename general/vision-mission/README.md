@@ -1,8 +1,15 @@
-# Mission
+# MISSION-VISSION
 
 
-## TL;DR
+## MISSION STATEMENT
+At Cuesoft, Our mission is to demystify and reimagine how people build and interact with software in their day-to-day activities and businesses in such a way that anyone can build and use it, making it accessible to all.
 
+## VISSION STATEMENT
+Our company's mission is to use software and cloud computing to make enterprise software affordable and accessible to all types of businesses.
+
+### TL;DR
+
+### INTRODUCTION
 
 We help businesses and enterprises embrace the adoption of new technologies, resolve complex issues that arise frequently throughout digital transformation, and facilitate ongoing innovation. 
 
