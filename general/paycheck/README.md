@@ -3,8 +3,10 @@
 
 ## TL;DR
 
-Your salary will be processed on 1st of every month. Please make sure you fill in the correct Account details during the onboarding process.
+Your salary will be processed on the first day of each month. Please make sure you fill in the correct bank details during the onboarding process. If for some reason, your remuneration is delayed, kindly reach out to the Head of people/Admin.
 
-## Introduction
 
+## Taxing
+
+## Sanctions
  

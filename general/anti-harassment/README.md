@@ -9,7 +9,7 @@ If you:
 - Discrimination
 - Bullying / Workplace Violence
 
-You'll be relieved of your duties with immediate effect. We'll also report to your local law enforcement if the issue is serious. Please send an email to admin@cuesoft.io if you're the victim. 
+You'll be relieved of your duties with immediate effect. We'll also report you to the appropriate law enforcement if the issue is serious. Please send an email to admin@cuesoft.io if you're the victim. 
 
 ## Introduction
 
