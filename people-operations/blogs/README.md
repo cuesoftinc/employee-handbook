@@ -1,5 +1,3 @@
 # BLOGS
 
-We currently own and are subscribed to a medium account. This will enable anybody in the company to write interesting articles about tech, our products and other amazing topics. Feel free to request to publish an article. We encourage you to do so! 
-
-To submit an article, kindly reach out to the CTO for proper guidance, thank you.
+We currently own and are subscribed to a medium account. This will enable anybody in the company to write interesting articles about tech, our products and other amazing topics. Feel free to request to publish an article. We encourage you to do so!
