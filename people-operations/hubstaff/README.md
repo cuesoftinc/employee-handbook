@@ -11,7 +11,7 @@ As most remote companies, we use hubstaff to track time and activity of our empl
 
 ## Important things to Note.
 
-As a company, we have been using hubstaff for 3 years. We are well aware of how the software works, what is expected and what is right.
+As a company, we have been using hubstaff for 2 years. We are well aware of how the software works.
 
 -Do not try to trick or cheat the system by downloading tools that simulate keyboard activities or mouse activities. We will discover any such activity in your account, and it will be treated as a theft of company funds. This is a very serious offence and you will be laid off immediately without pay or compensation.
 
