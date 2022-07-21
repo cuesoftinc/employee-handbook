@@ -1,7 +1,8 @@
 # EMPLOYEE ONBOARDING
+
 This document is for all new employees.
 
-Please update your LinkedIn profile and add Cuesoft as your current employer.
+Please update your LinkedIn profile, and add Cuesoft as your current employer.
 
 Kindly refer to airtable, to complete the onboarding checklist
 
