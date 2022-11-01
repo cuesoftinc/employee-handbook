@@ -31,6 +31,13 @@ The CuesoftCloud Employee Handbook is the central repository for how we manage a
   * [Violation](/people-operations/violation/README.md)
 * Leadership
   * [Leadership Team](/leadership/README.md)
+* Company Policy
+  * [Overview](/policies/README.md)
+  * [Bring your own device (BYOD)](/policies/byod/README.md)
+  * [Cybersecurity](/policies/cyber/README.md)
+  * [Communication](/policies/communication/README.md)
+  * [Diversity](/policies/diversity/README.md)
+  * [Anti-harassment](/general/anti-harassment/README.md)
 * Careers
   * Want to work with us? Please check [our Interview Process and FAQ](https://cuesoft.io/career)
 * [Credits](/credits/README.md)
