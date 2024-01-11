@@ -3,11 +3,11 @@
 ## CEO
     Ibukun Olatayo Dairo
 
-## CTO
+<!-- ## CTO
     Apata Adeoluwa David
 
 ## CMO
-    Segun Emmanuel Adeyemi
+    Segun Emmanuel Adeyemi -->
 
 ## CRO
     Ayanfeoluwa Beloved Oluyomi
@@ -15,8 +15,8 @@
 ## COO
     Mubin Osiforeba Sheidu
 
-## HOP/ADMIN
-    Toluwalase Olamide Adeniyi
+<!-- ## HOP/ADMIN
+    Toluwalase Olamide Adeniyi -->
 
 # BOARD OF DIRECTORS
     Private information, only available to the management team.
