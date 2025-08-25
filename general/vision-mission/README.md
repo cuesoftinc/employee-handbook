@@ -2,19 +2,18 @@
 
 
 ## MISSION STATEMENT
-At Cuesoft, Our mission is to demystify and reimagine how people build and interact with software in their day-to-day activities and businesses in such a way that anyone can build and use it, making it accessible to all.
+Cuesoft is committed to demystifying and reimagining how people build and interact with software. Through CueTA™ (Talent Academy) and CueLABS™ (Devlabs), we nurture talents, foster open-source innovation, and partner with startups and companies to develop impactful technology.
 
-## VISSION STATEMENT
-Our company's mission is to use software and cloud computing to make enterprise software affordable and accessible to all types of businesses.
-
-### TL;DR
+## VISION STATEMENT
+Our company's vision is to To be a global leader in AI, software innovation, and talent development, creating sustainable solutions that bridge Africa with the rest of the world.
 
 ### INTRODUCTION
 
-We help businesses and enterprises embrace the adoption of new technologies, resolve complex issues that arise frequently throughout digital transformation, and facilitate ongoing innovation. 
+At Cuesoft, we are more than a technology company, we are a force for innovation, talent growth, and global collaboration. Our purpose is to transform how people build, interact with, and benefit from software and Artificial Intelligence (AI).
 
-We're a custom and proprietary software development company that helps businesses, enterprises, and startups innovate and secure their digital solutions. Ideas are turned into reality by our team of advisors, UX experts, and software engineers. As a top software development company, we recognize that each business has unique software requirements, so we offer custom software development services to match their needs and expectations. 
+We operate at the intersection of technology, education, and collaboration, creating an ecosystem that empowers individuals and organizations to thrive in the digital age. Through our two core arms:
 
-Our values are the guiding principles upon which Cuesoft was founded and how we strive to conduct our business daily establish our view of the world, as we shape the future. They determine how we treat each other. 
+CueLabs (Devlabs): Our innovation hub where skilled engineers, independent contributors, and collaborators work together to design and develop impactful software solutions. CueLabs is also where we encourage open-source contributions and knowledge sharing to ensure that technology remains accessible and useful.
+CueTA (Talent Academy): Our learning and development platform that trains and equips the next generation of developers, problem-solvers, and innovators. Through CueTA, we provide practical education in software development, Artificial Intelligence, and other emerging technologies, preparing people for opportunities in today’s fast-changing world.
 
-Our drive for exceptional service delivery is built on solving the problem of our clients. We are passionate and keen on bringing solutions to every challenge. This helps differentiate us from our competitors.
+Our strength lies not only in our in-house team, but also in our network of Independent Contributors, Consultants, and External Collaborators, who share in our vision of building solutions that matter. This flexible, collaborative model allows us to deliver value across industries.
