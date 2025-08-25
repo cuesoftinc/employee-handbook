@@ -1,7 +1,12 @@
 # Cuesoft Employee Handbook
 
+This handbook is the central repository of how we work, grow, and uphold our values at Cuesoft Nigeria Limited. It applies to all Cuesoft employees, independent contributors (contractors), and external collaborators/consultants, unless otherwise stated.
+We maintain this handbook in line with our core values of transparency, accountability, and innovation.
 
-The Cuesoft Employee Handbook is the central repository for how we manage and run the company. As part of our core value of transparency and accountability, this handbook is open to the general public, and we would appreciate your feedback. You can make a pull request to suggest improvements or add clarifications. Few sections of this handbook may not open to the world and is only accessible to employees.
+Who We Are
+*Cuesoft Talent Academy (CueTA™): Our EdTech branch dedicated to training the next generation of AI and software engineers. CueTA offers intensive courses in AI, machine learning, and advanced programming, equipping talents with the skills they need to compete globally.
+*Cuesoft DevLabs (CueLABS™): A collaborative engineering hub where trained talents and expert programmers work on real-world projects, build open-source solutions, and develop cutting-edge software for startups and established businesses.
+*Consulting and Partnerships: We partner with companies to provide software development, legal and compliance guidance, accounting/auditing support, and strategic innovation advice.
 
 ### Contents
 
